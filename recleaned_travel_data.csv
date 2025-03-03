@@ -1,0 +1,401 @@
+city_of_travel,budget_per_person_(inr),number_of_travelers,month_of_travel,average_temperature_(°c),avg_age_of_travelers
+Athens,125000,2,Jul,10,46
+Kyoto,160000,2,Apr,25,57
+Madrid,130000,4,Jul,16,20
+Seoul,160000,1,Oct,6,31
+Beijing,165000,4,Jan,13,40
+Istanbul,160000,2,Apr,30,52
+St. Petersburg,160000,1,Jul,25,44
+Oslo,105000,4,Apr,23,33
+Kuala Lumpur,120000,4,Oct,16,59
+Bangkok,110000,5,Jan,27,57
+Manila,115000,2,Apr,32,59
+Lisbon,175000,5,Oct,20,56
+Chicago,170000,5,Jan,7,30
+Munich,110000,2,Apr,10,55
+Reykjavik,170000,2,Oct,6,29
+Zurich,130000,4,Apr,10,35
+Zurich,170000,5,Apr,17,18
+San Diego,85000,4,Apr,18,18
+Athens,125000,1,Jul,25,30
+Edinburgh,85000,4,Apr,18,19
+Havana,220000,4,Apr,11,52
+San Francisco,195000,5,Jul,32,32
+Cairo,180000,1,Jul,19,26
+Singapore,110000,3,Oct,28,47
+Nice,180000,4,Apr,13,43
+Bogotá,230000,4,Apr,10,53
+Taipei,150000,3,Jan,26,34
+Budapest,145000,1,Jan,21,22
+Rome,190000,2,Oct,25,45
+Florence,215000,3,Jul,25,53
+Moscow,125000,4,Oct,8,19
+Ho Chi Minh City,145000,3,Oct,18,45
+Bangkok,90000,4,Jul,32,44
+Marrakech,195000,5,Jan,32,40
+Paris,150000,1,Oct,15,32
+Singapore,110000,5,Apr,28,32
+Ho Chi Minh City,145000,5,Apr,13,22
+Stockholm,130000,2,Apr,23,26
+Montreal,230000,5,Jan,22,59
+Los Angeles,170000,3,Apr,29,28
+Geneva,110000,5,Apr,14,56
+Istanbul,100000,1,Apr,5,23
+Cape Town,190000,3,Jul,14,48
+Jakarta,175000,5,Apr,5,58
+Lisbon,150000,4,Oct,26,30
+Brisbane,140000,1,Apr,35,57
+Moscow,140000,2,Jul,22,27
+Jakarta,105000,4,Oct,15,47
+Marrakech,90000,3,Oct,33,42
+Lisbon,165000,3,Apr,31,58
+Geneva,175000,1,Apr,6,58
+Vancouver,130000,3,Apr,9,47
+Prague,175000,2,Apr,32,45
+Bangkok,110000,2,Apr,30,59
+Moscow,170000,1,Jan,-10,57
+Moscow,170000,4,Apr,5,57
+Krakow,140000,5,Oct,28,57
+Berlin,165000,3,Jul,14,18
+Mexico City,125000,5,Apr,13,57
+Florence,185000,2,Apr,17,49
+Kuala Lumpur,180000,5,Oct,29,27
+Melbourne,110000,5,Jan,11,41
+Barcelona,110000,1,Jul,24,43
+Shanghai,100000,1,Jan,12,24
+Zurich,135000,5,Apr,27,58
+Cape Town,190000,5,Jul,14,38
+Munich,175000,2,Oct,10,59
+Las Vegas,165000,2,Jan,19,58
+Vienna,135000,5,Jul,18,26
+Phuket,135000,4,Oct,32,30
+Berlin,180000,5,Jul,6,53
+Singapore,110000,3,Oct,28,34
+Shanghai,155000,2,Apr,35,33
+Marrakech,150000,2,Apr,12,23
+Madrid,105000,2,Oct,14,35
+Beijing,120000,2,Oct,28,22
+London,155000,5,Jan,4,23
+Zurich,130000,2,Oct,23,57
+Cairo,170000,2,Jul,35,54
+Jakarta,235000,3,Oct,29,56
+Buenos Aires,130000,1,Jul,30,48
+Warsaw,115000,4,Oct,29,21
+Montreal,130000,1,Oct,8,20
+Taipei,135000,4,Apr,12,39
+Doha,170000,1,Jul,5,37
+San Francisco,135000,5,Oct,23,53
+Jakarta,155000,1,Oct,18,47
+Rome,140000,4,Jul,10,48
+Stockholm,130000,4,Jul,7,32
+St. Petersburg,155000,2,Apr,7,23
+Manila,180000,3,Oct,8,28
+Phuket,175000,5,Oct,35,20
+Seoul,200000,4,Oct,7,43
+Sydney,200000,1,Jul,16,35
+Brisbane,200000,2,Apr,27,33
+Ho Chi Minh City,170000,2,Apr,16,59
+San Diego,135000,1,Jul,16,20
+Berlin,160000,3,Apr,28,50
+Munich,140000,1,Apr,6,60
+Kuala Lumpur,125000,3,Jan,15,38
+Singapore,180000,4,Dec,34,38
+Moscow,155000,2,Apr,7,50
+Istanbul,130000,2,Mar,5,55
+London,80000,2,Aug,28,31
+Istanbul,110000,5,Aug,24,58
+Beijing,170000,2,Nov,24,35
+Istanbul,105000,4,Jun,8,63
+Rio de Janeiro,110000,5,Feb,32,33
+Singapore,140000,3,Jul,25,54
+Dubai,195000,5,Nov,28,45
+Berlin,190000,5,Feb,13,18
+Cape Town,165000,1,Aug,31,58
+Berlin,145000,5,Nov,18,42
+Rome,185000,6,Nov,21,50
+Madrid,120000,6,Sep,24,41
+Cairo,120000,4,Feb,13,35
+Kyoto,95000,6,Jun,34,49
+Cairo,105000,5,Jun,4,46
+Madrid,80000,6,Mar,13,35
+Istanbul,195000,6,May,29,33
+Seoul,80000,3,May,0,20
+Cairo,120000,2,Aug,-4,22
+Rio de Janeiro,185000,3,Jul,16,33
+Moscow,195000,1,May,-4,29
+Beijing,160000,3,Jun,6,53
+New York,85000,6,Mar,5,34
+Rome,95000,6,Mar,19,26
+Mexico City,100000,3,Jul,12,54
+Rio de Janeiro,140000,6,Jul,8,64
+Rome,100000,4,Jun,21,22
+Mexico City,140000,1,Jan,-5,20
+Bangkok,160000,1,Oct,16,65
+New York,115000,1,Jul,-5,45
+Mexico City,175000,2,Dec,1,56
+Beijing,180000,6,Jul,35,56
+Mexico City,120000,2,May,24,35
+Dubai,135000,4,Jan,17,49
+Mexico City,195000,6,Feb,14,39
+Cairo,85000,5,Sep,23,24
+Bangkok,115000,2,Feb,0,54
+Moscow,195000,3,Aug,6,57
+Mexico City,195000,1,May,17,58
+Bangkok,180000,5,Jan,17,38
+Singapore,145000,6,Apr,2,44
+Bangkok,175000,6,May,16,44
+Dubai,100000,1,Sep,14,20
+Cape Town,155000,6,Jul,7,59
+Moscow,125000,2,Sep,10,63
+Kyoto,165000,4,Feb,10,30
+London,155000,5,Jun,-2,47
+London,115000,4,Oct,13,49
+Athens,175000,4,Dec,29,44
+Singapore,180000,4,Jan,17,32
+Mexico City,85000,2,Oct,20,27
+London,180000,6,Feb,3,64
+Moscow,105000,2,Jan,10,22
+Berlin,100000,4,Apr,24,63
+Madrid,165000,3,Oct,29,19
+Cape Town,165000,5,Aug,-5,48
+Cairo,135000,1,Nov,8,24
+Bangkok,155000,1,Jul,-4,54
+New York,185000,6,Jun,-2,24
+Rio de Janeiro,95000,5,Jul,-1,19
+Beijing,195000,2,Sep,30,57
+Beijing,85000,2,Jan,29,55
+Sydney,130000,3,Jun,33,43
+Bangkok,180000,1,Oct,34,21
+Berlin,145000,4,Sep,-2,62
+Cairo,130000,5,Oct,32,33
+Sydney,165000,5,Jun,16,45
+Sydney,80000,1,Dec,10,27
+Bangkok,85000,6,Jun,1,39
+Beijing,95000,2,Jul,11,46
+Singapore,175000,6,Jun,29,18
+Seoul,170000,5,May,15,37
+Sydney,155000,5,Jan,-2,48
+New York,185000,5,Nov,29,20
+Singapore,115000,4,Feb,6,41
+Dubai,195000,2,Dec,18,59
+London,180000,5,Apr,27,39
+Rome,140000,1,Dec,4,36
+Cairo,190000,1,Jul,29,19
+Berlin,160000,3,Sep,4,48
+Athens,135000,1,Oct,26,58
+Cairo,120000,6,Feb,3,32
+Toronto,195000,1,Sep,14,27
+Toronto,160000,1,Sep,8,51
+Mexico City,150000,3,Feb,14,36
+Athens,170000,6,Apr,29,18
+Cairo,85000,5,Feb,2,43
+Seoul,175000,2,Aug,1,35
+Dubai,180000,6,Sep,12,60
+Bangkok,175000,2,Jan,32,38
+Seoul,150000,4,Sep,32,56
+Cairo,155000,2,Mar,30,42
+Beijing,140000,6,Mar,29,32
+Moscow,90000,1,Jun,20,55
+Mexico City,155000,4,Sep,-3,51
+Kyoto,160000,3,Apr,32,61
+Cape Town,80000,1,Jul,6,37
+Toronto,175000,1,Dec,5,55
+Beijing,160000,3,Feb,23,65
+Madrid,185000,2,Jun,-5,55
+Cairo,160000,1,Jul,1,65
+Istanbul,90000,6,Oct,7,46
+London,110000,5,Feb,2,39
+Moscow,190000,6,Jan,11,43
+Mexico City,125000,3,Jun,24,35
+London,150000,5,Mar,18,42
+Cairo,110000,2,Aug,32,51
+Moscow,195000,6,Sep,25,57
+Toronto,190000,4,Oct,4,64
+Istanbul,105000,3,May,9,33
+Toronto,110000,4,Aug,12,38
+New York,145000,6,Mar,8,21
+Athens,150000,3,May,27,30
+Dubai,100000,2,Oct,29,59
+Kyoto,190000,4,Aug,6,51
+New York,190000,1,Aug,1,35
+Istanbul,135000,1,Apr,11,64
+Rome,85000,5,Jul,13,19
+Beijing,100000,4,May,7,27
+Mexico City,135000,4,Mar,3,27
+Singapore,130000,3,Mar,10,56
+Rome,105000,1,Jul,1,52
+Rio de Janeiro,90000,1,Sep,23,30
+Toronto,120000,1,Feb,17,30
+Istanbul,180000,1,Mar,0,36
+Berlin,155000,1,Aug,29,61
+Sydney,95000,5,Oct,24,20
+Sydney,150000,5,Feb,9,59
+Kyoto,155000,2,Oct,7,55
+London,195000,3,Jun,18,53
+New York,170000,2,Oct,30,57
+Cairo,160000,2,Jul,33,55
+New York,185000,5,Feb,34,55
+Mexico City,80000,6,Jan,16,38
+Mexico City,175000,3,Nov,2,58
+Athens,100000,5,Sep,34,65
+Sydney,165000,4,Apr,6,50
+Rome,135000,6,May,23,21
+Beijing,195000,1,Mar,28,48
+Mexico City,165000,5,Dec,16,63
+Toronto,170000,6,Oct,23,30
+Rio de Janeiro,150000,4,Mar,29,22
+Seoul,85000,6,Jun,7,43
+Rome,170000,4,Mar,16,64
+Dubai,175000,2,Apr,13,49
+Singapore,90000,4,May,22,23
+Cape Town,95000,3,Dec,14,45
+Sydney,115000,2,Dec,6,28
+Istanbul,140000,3,Aug,-3,52
+Athens,180000,2,Mar,2,30
+Bangkok,165000,4,Oct,-5,38
+Athens,195000,3,Jul,16,47
+Dubai,180000,4,Aug,15,61
+Athens,185000,5,Jul,10,57
+Madrid,165000,4,May,2,48
+Moscow,175000,3,Jun,-4,62
+Rome,150000,6,Apr,25,32
+London,185000,3,Feb,24,62
+Kyoto,85000,5,Apr,18,42
+Seoul,180000,5,Jul,0,27
+Bangkok,90000,1,Dec,-3,40
+Athens,100000,1,Oct,21,23
+Madrid,195000,1,Mar,-2,52
+Bangkok,190000,3,Feb,10,43
+Toronto,125000,3,Oct,4,18
+Bangkok,195000,4,May,14,41
+Beijing,160000,6,Mar,17,27
+Sydney,140000,2,Aug,7,24
+Toronto,100000,6,Jul,20,51
+Rio de Janeiro,105000,2,Feb,8,51
+Singapore,110000,2,Jan,23,53
+Seoul,170000,4,Apr,11,54
+New York,80000,1,Apr,0,53
+Mexico City,140000,1,Oct,-2,28
+Singapore,105000,3,Apr,0,26
+Rome,90000,4,Mar,18,24
+London,145000,1,Apr,-4,41
+Singapore,105000,2,Mar,10,60
+Bangkok,195000,6,Jun,1,39
+Istanbul,85000,3,Mar,4,48
+Cape Town,130000,3,Dec,27,53
+Seoul,100000,3,Feb,1,49
+Cape Town,140000,3,Oct,34,58
+Kyoto,170000,2,May,21,60
+Singapore,105000,5,Sep,27,35
+Singapore,170000,4,Oct,16,56
+London,125000,2,Aug,2,48
+Cape Town,170000,2,Aug,0,54
+Berlin,130000,4,Jun,29,25
+London,180000,3,Dec,12,61
+Berlin,170000,4,Oct,-3,54
+Rome,145000,1,Oct,-5,53
+Mexico City,170000,1,Jul,-5,32
+Seoul,175000,3,Oct,26,39
+New York,140000,4,Jun,30,41
+Cape Town,175000,1,May,19,26
+Athens,180000,3,Nov,-5,64
+Beijing,105000,4,Apr,35,42
+Bangkok,105000,1,Jul,17,51
+Singapore,85000,2,Feb,-5,38
+Rome,175000,4,Jun,35,29
+London,170000,4,Jun,-1,55
+Singapore,195000,6,Oct,35,31
+Sydney,110000,2,Feb,15,50
+Berlin,195000,3,Sep,25,20
+Dubai,145000,3,Oct,10,62
+Madrid,85000,1,Jul,12,41
+Rome,95000,6,Oct,22,56
+Mexico City,135000,6,Jul,26,25
+Athens,130000,4,Jul,13,39
+Toronto,150000,2,Feb,17,60
+Madrid,125000,6,Jul,8,58
+Sydney,190000,1,Aug,32,25
+Toronto,155000,6,Oct,-4,58
+Istanbul,180000,2,Feb,19,28
+Rome,160000,3,Feb,18,33
+Sydney,130000,5,Feb,30,20
+London,160000,2,Jul,12,18
+Seoul,195000,3,Oct,22,60
+Moscow,185000,3,Apr,19,52
+London,150000,2,Jun,27,61
+Singapore,195000,1,Jan,0,24
+Sydney,175000,4,Mar,23,53
+Rome,105000,1,Jul,-4,35
+Rio de Janeiro,90000,5,Apr,4,49
+Sydney,95000,6,Nov,10,54
+Seoul,130000,2,Jul,34,21
+New York,140000,6,Aug,16,50
+Rome,130000,1,Feb,34,57
+Mexico City,90000,4,Nov,33,48
+Singapore,110000,4,Apr,4,45
+Mexico City,195000,1,Dec,-2,43
+Bangkok,90000,4,Apr,-4,32
+Moscow,120000,4,Apr,33,35
+Toronto,170000,4,Mar,14,22
+Istanbul,80000,3,Nov,18,19
+Athens,150000,2,Oct,33,51
+Beijing,195000,5,Mar,4,57
+Kyoto,180000,5,Aug,4,43
+Istanbul,135000,6,Jan,17,19
+London,180000,1,Aug,-1,35
+Rio de Janeiro,120000,3,Jan,-4,34
+Seoul,110000,1,Jul,-5,19
+Bangkok,195000,2,Feb,11,46
+Rome,175000,6,Dec,-1,38
+Berlin,170000,1,May,21,36
+Beijing,185000,3,Feb,16,23
+New York,125000,2,Dec,-4,64
+Madrid,155000,1,Sep,25,34
+Berlin,160000,5,Feb,-1,38
+Toronto,175000,6,Apr,29,18
+Dubai,195000,3,Apr,12,55
+Rome,85000,3,May,24,62
+Kyoto,195000,3,Jul,17,64
+Dubai,185000,6,Dec,-1,60
+Dubai,175000,4,May,34,48
+Seoul,195000,1,Dec,31,59
+Beijing,185000,5,Jun,24,55
+Beijing,85000,2,Mar,35,51
+Moscow,95000,6,Aug,34,32
+Athens,170000,5,Jan,2,41
+Berlin,170000,2,Aug,25,39
+London,120000,2,Nov,-5,58
+New York,125000,5,Jun,4,40
+Cape Town,90000,4,Mar,4,37
+Toronto,120000,1,Feb,27,39
+New York,160000,4,Nov,19,53
+Singapore,155000,6,Aug,28,49
+Sydney,80000,1,Feb,11,61
+Mexico City,105000,6,Dec,20,37
+Seoul,120000,5,Apr,23,64
+Cairo,135000,1,Jul,17,56
+Beijing,170000,5,Jun,26,22
+Istanbul,155000,6,Dec,22,21
+Kyoto,80000,3,Dec,6,29
+Toronto,80000,5,Feb,31,65
+Dubai,180000,5,Aug,15,49
+Rio de Janeiro,120000,2,Dec,19,53
+Cairo,150000,2,Jul,34,64
+Moscow,110000,3,Aug,28,53
+Berlin,115000,3,Dec,4,40
+Rio de Janeiro,115000,6,Feb,-4,24
+Moscow,105000,3,Nov,16,28
+Rio de Janeiro,190000,6,Jul,-4,41
+Mexico City,150000,4,Nov,19,40
+Mexico City,150000,3,Jul,-5,28
+Sydney,150000,6,May,12,19
+Moscow,175000,3,Sep,22,65
+Rio de Janeiro,170000,6,Oct,20,47
+Cairo,130000,5,Apr,30,62
+Kyoto,125000,3,Jul,32,26
+Madrid,125000,3,May,26,19
+Athens,115000,3,Feb,9,51
+New York,165000,1,Apr,12,45
+London,195000,2,Nov,-4,60
+Mexico City,105000,5,Jul,8,26
+Rio de Janeiro,110000,2,Nov,31,19
