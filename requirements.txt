@@ -1,0 +1,6 @@
+firebase-admin
+streamlit
+googlemaps
+python-dotenv
+langchain-core
+langchain-community
