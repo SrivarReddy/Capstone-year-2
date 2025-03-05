@@ -1,5 +1,5 @@
 
-# YatriBot
+# YatriBot 
 
 An AI-powered travel assistant that helps users explore destinations, book travel services, and engage in interactive quizzes. The chatbot provides real-time recommendations, travel tips, and booking support, making trip planning seamless and engaging.
 
