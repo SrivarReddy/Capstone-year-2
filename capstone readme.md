@@ -49,8 +49,8 @@ Place it in the root directory of the project.
 
 4. Create a .env file in the root directory and add your API keys:
 
-HF_API_TOKEN=your_huggingface_api_key  
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key  
+HF_API_TOKEN
+GOOGLE_MAPS_API_KEY  
 
 5. Run the application 
 
